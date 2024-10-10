@@ -1,8 +1,11 @@
+import { useState, useEffect } from "react"
+import { useNavigate, useParams } from "react-router-dom"
+
 const Produto=()=>{
 
     return(
         <>
-        <h1>Produto</h1>
+        <h1>Cadastrar Produto</h1>
         </>
     )
 }
