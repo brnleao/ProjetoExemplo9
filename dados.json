@@ -1,5 +1,14 @@
 {
-    "produto":[
-        
-    ]
+  "produto": [
+    {
+      "id": "78e8",
+      "nome": "Produto1",
+      "foto": "https://th.bing.com/th/id/OIP.P4DMuIBeaquqp4D0uCtMawHaEK?w=285&h=180&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "id": "223c",
+      "nome": "Produto2",
+      "foto": "https://th.bing.com/th/id/OIP.a0qL-4SDF2pKxQhL4L8NdAHaEo?w=220&h=180&c=7&r=0&o=5&pid=1.7"
+    }
+  ]
 }
